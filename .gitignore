@@ -1,3 +1,4 @@
+*.pyc
 .DS_Store
 .idea
 /de_wortschatz_db/settings_database.py
